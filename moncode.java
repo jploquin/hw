@@ -1,3 +1,3 @@
 function coder(){
-print("hello word");
+print("hello world");
 }
